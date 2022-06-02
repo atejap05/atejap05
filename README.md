@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/atejap05/atejap05/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://raw.githubusercontent.com/atejap05/atejap05/image.jpeg">
 
 <h2> Hey there! I'm Joel Alves.</h2>
 
