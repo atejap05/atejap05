@@ -2,7 +2,7 @@
 <img width="100%" height="50%" src="https://github.com/atejap05/atejap05/blob/main/img/image.png">
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-<div>
+
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
@@ -24,7 +24,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-</div>
+<br/>
 
 <a href="https://github.com/atejap05">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atejap05&theme=buefy&show_icons=true" />
