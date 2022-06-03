@@ -27,8 +27,8 @@
 <br/>
 
 <a href="https://github.com/atejap05">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=atejap05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atejap05&theme=buefy&layout=compact" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=atejap05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atejap05&layout=compact&langs_count=8&theme=algolia" />
 </a>
 
 <br/>
