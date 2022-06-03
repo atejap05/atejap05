@@ -41,4 +41,8 @@
 <a href="mailto:atejap@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-atejap@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+## Snake eating my contributions grahp
+![snake gif](https://github.com/atejap05/atejap05/blob/output/github-contribution-grid-snake.gif)
+
+
 ⭐️ From [atejap05](https://github.com/atejap05)
