@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Joel Alves.</h2>
-<img width="100%" height="50%" src="https://github.com/atejap05/atejap05/blob/main/img/image.jpg">
+<img width="100%" height="50%" src="https://github.com/atejap05/atejap05/blob/main/img/image.png">
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
