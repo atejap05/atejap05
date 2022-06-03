@@ -1,4 +1,5 @@
-<img width="50%" height="50%" src="https://github.com/atejap05/atejap05/blob/main/img/image.jpg">
+<div>
+<img width="100%" height="50%" src="https://github.com/atejap05/atejap05/blob/main/img/image.jpg">
 
 <h2> Hey there! I'm Joel Alves.</h2>
 
@@ -9,6 +10,7 @@
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+</div>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
