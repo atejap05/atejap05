@@ -1,4 +1,4 @@
-<img width="50%" height="50%" src="https://github.com/atejap05/atejap05/img/blob/main/image.jpg">
+<img width="50%" height="50%" src="https://github.com/atejap05/atejap05/blob/main/img/image.jpg">
 
 <h2> Hey there! I'm Joel Alves.</h2>
 
